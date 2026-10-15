@@ -1,0 +1,6 @@
+{
+  "name": "FLEETMIND — Edge-AI AMR Fleet Coordination",
+  "description": "Edge-AI Based Distributed Fleet Coordination for Autonomous Mobile Robots in Smart Warehouses",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
